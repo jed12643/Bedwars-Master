@@ -24,7 +24,7 @@ local Tab2Section = Tab2:NewSection("Autosprint")
 
 local Tab2Section = Tab2:NewSection("NoSlowdown")
 
-local Tab2Section = Tab2:NewSection("Fly- Bypass")
+local Tab2Section = Tab2:NewSection("Fly-Bypass")
 
 local Tab3 = window:NewTab("Animations")
 
